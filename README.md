@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity**
 
-- 👨‍💻 All of my projects are available at [www.dhirajjadhav.tech](www.dhirajjadhav.tech)
+- 👨‍💻 All of my projects are available at [https://jdhiraj462.github.io/Dhiraj-Jadhav-Portfolio/](https://jdhiraj462.github.io/Dhiraj-Jadhav-Portfolio/)
 
 - 📫 How to reach me **jdhiraj462@gmail.com**
 
